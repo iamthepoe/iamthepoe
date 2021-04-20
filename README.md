@@ -9,7 +9,7 @@
   <li>🔎 I intend to focus more on desktop/mobile applications and back-end development.</li>
   <li>📖 I am currently training <strong>C# and Python.</strong> And soon, OOP in C# !</li>
   <li>🧠 I love philosophy. (Epistemology is cool).</li>
-  <li>🎵I like to play acoustic guitar, Bossa Nova. 💛</li>
+  <li>🎵 I like to play acoustic guitar, Bossa Nova. 💛</li>
   <li>🎮 Age of Civilizations 2. </li>
 </ul>
 
