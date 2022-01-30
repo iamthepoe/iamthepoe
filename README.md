@@ -11,27 +11,33 @@
 
 <ul>
   <li> I am studying <b>Systems Development</b> at  <b>"Etec de Peruíbe"</b>.</li>
-  <li> Currently a <b>dotnet programmer</b>.</li>
-  <li> Studying Javascript/NodeJS. </li>
-    <li> I love philosophy (Epistemology is cool).</li>
+  <li>Trying backend development.</li>
+  <li>Interested in Javascript-Stack and dotnet framework.</li>
+  <li>I love philosophy (Epistemology is cool).</li>
 </ul>
 
 
-## Learning
+## Skills
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white">
 
-
+## Plan to learn
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<hr>
 
 <div>
-  <a href="https://github.com/iamthepoe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamthepoe&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+<a href="https://github.com/iamthepoe">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamthepoe&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthepoe&layout=compact&langs_count=7&theme=midnight-purple">
+
 </div>
