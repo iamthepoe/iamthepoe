@@ -11,30 +11,13 @@
 
 
 <ul>
-  <li> I'm studying <b>Systems Development</b> at  <b>"Etec de Peruíbe"</b>.</li>
-  <li>Trying backend development.</li>
-  <li>Interested in Javascript-Stack and DotNet framework.</li>
-  <li>I love philosophy (Kantianism and Aristotelianism).</li>
+  <li>I'm studying <b>Systems Development</b> at  <b>"Etec de Peruíbe"</b>.</li>
+  <li>I work in web applications (front-end and back-end), but sometimes i do something in mobile too.</li>
+  <li>I use this languages: Javascript, Typescript, C++ and C#.</li>
 </ul>
 
-
-## Skills
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
-<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vuedotjs&logoColor=white"> 
-<img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white">
-	
-## Plan to learn
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white">  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white">
 <hr>
-
 <div align=center>
 <a href="https://github.com/iamthepoe">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamthepoe&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthepoe&layout=compact&langs_count=10&theme=gotham">
-
 </div>
