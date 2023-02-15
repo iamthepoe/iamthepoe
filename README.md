@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/iamthepoe/iamthepoe/blob/main/laingif.gif"></div>
+<div align="center"><img src="https://github.com/iamthepoe/iamthepoe/blob/main/laingif.gif" width=500></div>
 <hr>
 <div align="center">
   <h1>Find me!</h1>
@@ -9,14 +9,18 @@
 </div>
 <hr>
 <div align=center>
-<div align=center>
-  I'm studying <b>Systems Development</b> at  <b>"Etec de Peruíbe"</b>.<br>
-  I work in web applications (front-end and back-end), but sometimes i do something in mobile too.<br>
-  I use this languages: Javascript, Typescript, C++ and C#.<br>
-</div>
+  <h3>I'm full-stack developer, but focused in back-end. I use this:</h3>
+  <img alt="nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img alt="typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img alt="nestjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
+  <img alt="prisma" height="30" width="42" src="https://devicons.railway.app/i/prisma-dark.svg">
+  <img alt="mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img alt="mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img alt="vuejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+  <img alt="bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 <hr>
 <div align=center>
 <a href="https://github.com/iamthepoe">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamthepoe&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamthepoe&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 </div>
