@@ -3,7 +3,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Hi there, I am the Poe!</h1>
 <a href="https://lucapoe.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/luca-poe-11771a23a/"><img src="https://img.shields.io/badge/linkedin-%23000.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### About me! 😂
 
