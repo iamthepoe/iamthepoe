@@ -9,9 +9,10 @@
 
 <ul>
   <li> I'm studying <b>Systems Development</b> at  <b>"Etec de Peruíbe"</b>.</li>
-  <li>I'm a fullstack developer.</li>
+  <li>Trying back-end.</li>
   <li>I love philosophy.</li>
   <li>Studying english.</li>
+  <li>I really don't post all my stuff here...</li>
 </ul>
 
 
