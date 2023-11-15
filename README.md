@@ -1,4 +1,4 @@
-# É um recrutador? [Clique aqui para se localizar =)](https://github.com/iamthepoe/recruiter.md)
+# [É um recrutador? Clique aqui para se localizar =)](https://github.com/iamthepoe/recruiter.md)
 
 ## **👾 About me:**
 * Luca Poe, 17 years.
