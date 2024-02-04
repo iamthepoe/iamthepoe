@@ -1,9 +1,14 @@
-# [É um recrutador? Clique aqui para se localizar =)](https://github.com/iamthepoe/recruiter.md)
+# Hello, I'm Luca 🖖
+**Systems Development Technician** at ETEC (Escola Técnica Estadual de São Paulo).
 
+**Trainee Back-end Developer** at Escribo.
+
+[You can find my most relevant repositories here](https://github.com/iamthepoe/recruiter.md).
 ## **👾 About me:**
-* Luca Poe, 17 years.
-* Systems Development Technician (3/3) at "Etec de Peruíbe".
-* Back-end developer.
-* Currently using the Node.js stack (Typescript, Nest, Express, Prisma, React, Next, etc).
-* I like C#, Rust and sometimes i use PHP too.
-* In idleness, student of logic and philosophy.
+* 🧑‍💻 I'm a Javascript Developer (Node.js);
+* 📖 I love topics like Logic, Economics and Epistemology;
+* 🎵 I play the guitar and try to sing sometimes;
+* 🤝 I'm open for open-source collaborations.
+
+> “Sapere aude! Have the courage to use your own understanding.”
+― Immanuel Kant
