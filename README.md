@@ -5,7 +5,7 @@
 
 [Are you lost? My most relevant repositories are indexed here](https://github.com/iamthepoe/recruiter.md).
 ## **About me:**
-* Using javascript most of the time (Node.js);
+* Using Javascript most of the time (Node.js);
 * Studying Logic, Epistemology and Economics when time permits;
 * Open, for open-source collaborations.
 
